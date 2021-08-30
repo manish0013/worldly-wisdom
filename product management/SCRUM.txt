@@ -1,0 +1,36 @@
+What is Scrum
+
+Scrum is a project management system, it offers significant improvement over conventional project management. 
+
+Typically project management involves
+	• Estimating the entire project timelines in a single go, it brings in ineffeciency in planning phase. Morever the team members actually responsible for delivery of a project are not consulted which could also lead to planning fallacy i.e. underestimating project timelines. 
+	• Additionally, all the effort in detailed up front planning means any subsequent changes to the plan are resisted and project team is left with a rigid plan
+
+Scrum solves for above issues, this is because planning is done in small phases throughout the project with team members who're actually responsible for the delivery of a project. Overall the philosophy of a scrum project is basically having a team of somewhere between 3 to 9 team members, who do the planning and excute project in short sprints with the goal of demoing and getting feedback from customer or client by end of each sprint.
+
+A scrum project involves following 7 steps
+	1. Prepare a backlog of all the items in a story format, every backlog item should be written so as to answer
+		a. Who needs this feature?
+		b. What do they need?
+		c. Why do they need it?
+	Also, assign a priority order to each of these backlog items depend on impact/revenue etc.
+	
+	2. Estimate relatively: Do not assign hours to tasks, instead assign time in relative terms. A suggested approach is to assign a fibonacci number to the hardest (most time consuming task) ans use it as a benchmark to assign time to other tasks
+	
+	3. Execute a project in sprints: Each sprint should be 2-4 weeks long (not longer than a month) with the goal of having a demo at the end of each sprint
+	
+	4. Make your work visible, have a scrum story board and spit tasks in 3 categories:
+		a. Do
+		b. Doing
+		c. Done
+	5. A 15 minute daily Scrum call to discuss
+		a. What did we do yesterday
+		b. What do we plan to do today
+		c. What are the obstacles we're facing
+	6. By the end of each sprint have a MVP (Minimum Viable Products) to be demoed to customers, idea is to collect feedback early and work on it
+	7. After the end of each spring have a team meeting to discuss
+		a. What went well
+		b. What didn't go well
+		c. Any improvements
+
+Having above approach to project planning improves the outcome in both quality and efficiency by incorporating feedback early on and making best use of time
